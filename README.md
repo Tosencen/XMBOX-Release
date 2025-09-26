@@ -1,6 +1,6 @@
 # XMBOX-Release
 
-XMBOX 电视版官方更新源
+XMBOX视频播放器更新源
 
 ## 仓库结构
 
