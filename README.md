@@ -123,4 +123,4 @@ wget "https://raw.githubusercontent.com/Tosencen/XMBOX-Release/main/apk/release/
 
 ---
 
-**XMBOX** - 基于 [FongMi/TV](https://github.com/FongMi/TV) 的影视应用
+**XMBOX** - 基于 [FongMi/TV](https://github.com/FongMi/TV) 二开的影视播放器应用
